@@ -26,14 +26,7 @@ I help businesses scale with efficient software systems and smart architecture. 
 ---
 
 ## 🛠️ Technical Expertise
-
-- **Programming Languages**
-- **Frontend Development**
-- **Backend Development**
-- **Database Technologies**
-- **Cloud & Infrastructure**
-- **Data Science & AI**
-- **Project Management**
+`Programming Languages`, `Frontend Development`, `Backend Development`, `Database Technologies`, `Cloud & Infrastructure`, `Data Science & AI`, `Project Management`
 
 Curious about the detail ... visit my portfolio → [longbui.net](https://longbui.net)  
 
