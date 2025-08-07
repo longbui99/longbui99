@@ -70,4 +70,4 @@ Curious about the detail ... visit my portfolio → [longbui.net](https://longbu
 
 ### 🏷️ Keywords
 `Long Bùi` `Python Engineer` `JavaScript Engineer` `ERP Architect` `Odoo Specialist` `Django Developer` `FastAPI` `ReactJS` `AWS Cloud` `PostgreSQL` `System Design` `Microservices` `AI Integration` `Full Stack Developer`
-
+`longbui github`, `longbui99 github`
