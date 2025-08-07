@@ -1,3 +1,6 @@
+## You, not others. 
+Adversity doesn't define you; it forges you into who you are meant to be.
+
 # 👋 Hi, I'm Long Bui
 
 **"Trouble slows you down but can never stop you."**  
