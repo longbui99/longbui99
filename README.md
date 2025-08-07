@@ -42,7 +42,7 @@ Curious about the detail ... visit my portfolio → [longbui.net](https://longbu
 | **Traffic-Monitoring System** | Python, FastAPI, PostgreSQL | Real-time analytics platform for traffic pattern analysis with predictive modeling to prevent bottlenecks and optimize system performance. |
 | **Odoo-Barcode Integration** | JavaScript, Odoo, Python | Custom ERP module enabling seamless barcode generation and scanning for inventory management, reducing manual data entry by 85%. |
 | **Time-Extension Plugin** | JavaScript, Chrome Extensions API | Lightweight browser extension for automated time tracking with productivity analytics and seamless integration with project management tools. |
-| **Cloudflare DDNS** | [Turn your home network to publicy accessible with DDNS methodology.](https://blog.longbui.net/public-server-from-home-network) |
+| **Cloudflare DDNS** | Python, Bash, Cloudflare | [Turn your home network to publicy accessible with DDNS methodology.](https://blog.longbui.net/public-server-from-home-network) |
 
 ---
 
