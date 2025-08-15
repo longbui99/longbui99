@@ -48,7 +48,7 @@ Curious about the detail ... visit my portfolio → [longbui.net](https://longbu
 
 ## 📝 Technical Writing & Knowledge Sharing
 
-### **Popular Articles (SEO-Optimized)**
+### **Popular Articles**
 - **[System Design Patterns for Real-World Architecture](https://blog.longbui.net/system-design)** — Comprehensive guides on building scalable distributed systems with modern Python frameworks
 - **[Deep Dive into Python's HTTPX for API Clients](https://blog.longbui.net/httpx)** — HTTPX, the asynchronous method for replacing 
 - **[QUIC Protocol – The Fast Future of Networking](https://blog.longbui.net/quic)** - QUIC protocol, one step futher from native HTTP
